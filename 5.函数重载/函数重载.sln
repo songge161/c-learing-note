@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "函数重载", "函数重载\函数重载.vcxproj", "{BB2CE103-E8A8-45F1-A69E-10ADE733C02F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2CE103-E8A8-45F1-A69E-10ADE733C02F}.Debug|x64.ActiveCfg = Debug|x64
+		{BB2CE103-E8A8-45F1-A69E-10ADE733C02F}.Debug|x64.Build.0 = Debug|x64
+		{BB2CE103-E8A8-45F1-A69E-10ADE733C02F}.Debug|x86.ActiveCfg = Debug|Win32
+		{BB2CE103-E8A8-45F1-A69E-10ADE733C02F}.Debug|x86.Build.0 = Debug|Win32
+		{BB2CE103-E8A8-45F1-A69E-10ADE733C02F}.Release|x64.ActiveCfg = Release|x64
+		{BB2CE103-E8A8-45F1-A69E-10ADE733C02F}.Release|x64.Build.0 = Release|x64
+		{BB2CE103-E8A8-45F1-A69E-10ADE733C02F}.Release|x86.ActiveCfg = Release|Win32
+		{BB2CE103-E8A8-45F1-A69E-10ADE733C02F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE73A59D-0EBE-4ADC-AB4F-A0E85B573890}
+	EndGlobalSection
+EndGlobal
